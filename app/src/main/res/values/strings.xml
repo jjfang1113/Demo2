@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Demo2</string>
     <string name="btn">按鈕</string>
+    <string name="btn2">按鈕2</string>
 </resources>
